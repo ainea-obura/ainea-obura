@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **laravel,vue, flutter**
 
-- 📫 How to reach me **anandaobura69@gmail.com**
+//- 📫 How to reach me **anandaobura69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
