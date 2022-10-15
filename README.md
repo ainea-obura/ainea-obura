@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ainea-obura&label=Profile%20views&color=0e75b6&style=flat" alt="ainea-obura" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aineaobura" target="blank"><img src="https://img.shields.io/twitter/follow/aineaobura?logo=twitter&style=for-the-badge" alt="aineaobura" /></a> </p>
 
 - 🌱 I’m currently learning **flutter**
 
 - 💬 Ask me about **laravel,vue, flutter**
 
-//- 📫 How to reach me **anandaobura69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
